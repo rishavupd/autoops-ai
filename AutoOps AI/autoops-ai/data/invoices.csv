@@ -1,0 +1,6 @@
+invoice_id,customer_name,customer_email,invoice_date,due_date,amount,status,last_reminder_sent,priority
+INV-001,ABC Textiles,abc@example.com,2026-03-01,2026-03-31,45000,unpaid,,high
+INV-002,Global Traders,global@example.com,2026-03-10,2026-04-10,18000,paid,2026-04-12,medium
+INV-003,Mayur Fabrics,mayur@example.com,2026-02-15,2026-03-15,76000,unpaid,2026-04-01,high
+INV-004,Sunrise Retail,sunrise@example.com,2026-04-01,2026-04-20,12500,unpaid,,low
+INV-005,Urban Decor,urban@example.com,2026-01-20,2026-02-20,98000,unpaid,2026-03-01,high
